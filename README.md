@@ -7,6 +7,8 @@
 ## ToDo
  
  Replace _hud_message.gsc to maps\mp\gametypes\_hud_message.gsc
+ 
+ 
  Add thos Lines in Globallogic 
 ![Cod4 Score Board](https://i.imgur.com/9rLgt3q.png)
 
