@@ -1,6 +1,8 @@
 # score-hud
 
  A cod4 modification for round end score board hud
+ 
+ Credit : JeeNNN:]
 
 ## Screenshots
 
