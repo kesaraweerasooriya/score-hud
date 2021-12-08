@@ -6,7 +6,7 @@
 
 ## ToDo
 
-![Cod4 Score Board](https://i.imgur.com/OBq6f2B.png)
+![Cod4 Score Board](https://i.imgur.com/9rLgt3q.png)
 
 ## Screenshots
 
